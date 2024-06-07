@@ -1,0 +1,22 @@
+{
+  "name": "site-template",
+  "version": "1.0.0",
+  "description": "site para aprendizado de FrontEnd com Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SITE-AÇAI"
+  },
+  "author": "\"Gabrielly Andreiov\"",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
